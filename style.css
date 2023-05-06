@@ -1,0 +1,148 @@
+.container {
+margin: 0 auto;
+}
+body{
+    background-color:#faf4e5;
+}
+.body{
+     width: 100%;
+     height:  350px;
+     margin-top: 150px;
+     background-color: #fff9e7;
+     transition: background-color 0.2s linear
+}
+  .body:hover{
+    background-color:#ffe2d5 ; 
+    
+  }
+.my{
+    font-size: 35px;
+    font-weight: 200;
+    margin-left: 750px;
+    margin-top: 60px;
+    position: absolute;
+}
+.fronted{
+    font-size: 55px;
+    font-weight: 500;
+    margin-left: 80px;
+    margin-top: 130px;
+    position: absolute;
+}
+
+
+.aboutme{
+  font-size: 30px;
+}
+.one {
+  font-size: 28px;
+  margin-left: 520px;
+  position: absolute;
+  margin-top: -30px;
+}
+.point{
+  background: #ff95007c;
+  border-radius: 100%;
+  height: 35px;
+  width: 35px;
+  margin-left: 516px;
+  position: absolute;
+  margin-top: -32px;
+}
+.hi{
+  margin-top: 10px;
+  font-size: 22px;
+}
+.layout{
+  font-size: 22px;
+}
+.background{
+  margin-left: 50px;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-top: 200px;
+  width: 600px;
+  height: 200px;
+  background-color: #fff9e7;
+  transition: background-color 0.2s linear
+}
+.background:hover{
+  background-color:#ffe2d5 ;
+}
+.background-1{
+  margin-left: 50px;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-top: 40px;
+  width: 600px;
+  height: 200px;
+  background-color: #fff9e7;
+  transition: background-color 0.2s linear
+}
+.background-1:hover{
+  background-color:#ffe2d5 ;
+}
+.my-skills{
+  font-size: 30px;
+}
+.two{
+    font-size: 28px;
+    margin-left: 520px;
+    position: absolute;
+    margin-top: -30px;
+}
+.skills{
+  margin-top: 10px;
+  font-size: 22px;
+}
+.background-2{
+  margin-left:50px;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-top: 40px;
+  width: 600px;
+  height: 200px;
+  background-color: #fff9e7;
+  transition: background-color 0.2s linear
+}
+.background-2:hover{
+  background-color:#ffe2d5 ;
+}
+.three{
+  font-size: 28px;
+  margin-left: 520px;
+  position: absolute;
+  margin-top: -30px;
+}
+.contacts{
+  font-size: 30px;
+}
+.tg{
+  font-size: 22px;
+  
+}
+
+.inst{
+  font-size: 22px;
+  
+
+}
+.vk{
+  font-size: 22px;
+ 
+
+}
+a{
+  text-decoration: none;
+  color:#ce7800 ;
+}
+span{
+  color: #2a2823;
+  font-size: 20px;
+}
+.nika{
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 800px;
+  width: 30%;
+}
